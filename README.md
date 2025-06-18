@@ -1,4 +1,4 @@
-### I’m an adult, but I like to sit at the kid’s table.
+### I’m an adult, but I prefer to sit at the kid’s table.
 
 I’ve been building websites for over 20 years — the last 12 at Kajabi as a senior front-end engineer — and I still get excited every time a bit of code comes to life in the browser. I specialize in React, TypeScript, GSAP, and SCSS, though I’m comfortable with just about everything in the modern front-end toolbox. I love crafting interactive experiences that move, respond, and feel just right.
 

@@ -1,20 +1,26 @@
-#### I’m a Creative Developer who believes the web should be fun again. After 12 years scaling Kajabi to millions of users, I’ve returned to my roots: building immersive, award-winning interactive experiences that make people go "Whoa. That's dope!"
+### I build fast, interactive web experiences with real motion, depth, and feel using React, WebGL, and GSAP.
 
-I don’t just write code; I choreograph the DOM. I combine 20 years of engineering discipline (React, TS) with high-end motion graphics (WebGL, GSAP, Three.js) to build sites, games, and apps that feel alive.
+After 12 years scaling Kajabi to millions of users, I’ve returned to building immersive, design-driven experiences that make people go “whoa, that’s dope.”
 
-My wheelhouse? I write the crazy, award-winning animations you want, but I architect them like a Senior Engineer so they never break.
+I combine 25 years of engineering discipline with high-end motion and 3D to build sites, games, and apps that feel alive.
 
-Specialties:
-• Motion: Complex GSAP Timelines, Framer Motion
-• 3D/WebGL: Three.js, PixiJS, Canvas 
-• Engineering: React, TypeScript, Tailwind, Next.js
+### Specialties:
 
-Currently: Open for Creative Developer & Technologist roles.
-Recent Work: Creative Technologist for Wildlife, Lead Creative Engineer at Kajabi.
+**Motion**: Complex GSAP timelines, Framer Motion
 
-Fun Fact: I’ve worked for Disney in two very different ways: once as a Cast Member (yes, I was literally Goofy at Disneyland), and later as a lead developer for their interactive campaigns. I bring that same vibe to every project.
+**3D/WebGL**: Three.js, PixiJS, Canvas, R3F
 
-#### Let’s build something cool.
+**Engineering**: React, TypeScript, Tailwind, Next.js
+
+### What's up:
+
+**Currently**: Open to Creative Developer / Design Engineer roles.
+
+**Recent**: Creative Developer at Wildlife, Lead Creative Engineer at Kajabi.
+
+**Not so recent**: I was Goofy and Merlin at Disneyland.
+
+### Where to find me:
 
 https://benhays.dev
 

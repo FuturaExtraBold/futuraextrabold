@@ -4,6 +4,8 @@ After 12 years scaling Kajabi to millions of users, I’ve returned to buildin
 
 I combine 25 years of engineering discipline with high-end motion and 3D to build sites, games, and apps that feel alive.
 
+---
+
 ### Specialties:
 
 **Motion**: Complex GSAP timelines, Framer Motion
@@ -12,6 +14,8 @@ I combine 25 years of engineering discipline with high-end motion and 3D to 
 
 **Engineering**: React, TypeScript, Tailwind, Next.js
 
+---
+
 ### What's up:
 
 **Currently**: Open to Creative Developer / Design Engineer roles.
@@ -19,6 +23,8 @@ I combine 25 years of engineering discipline with high-end motion and 3D to 
 **Recent**: Creative Developer at Wildlife, Lead Creative Engineer at Kajabi.
 
 **Not so recent**: I was Goofy and Merlin at Disneyland.
+
+---
 
 ### Where to find me:
 

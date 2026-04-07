@@ -4,7 +4,7 @@
 
 ### Skills:
 
-- **Creative Technology & Motion**: WebGL, Three.js, React Three Fiber (R3F), PixiJS, GLSL Shaders, GSAP, Framer Motion, Blender.
+- **Creative Technology & Motion**: WebGL, Three.js, R3F, PixiJS, GLSL Shaders, GSAP, Framer Motion, Blender.
 - **Core Front-End & Architecture**: TypeScript, JavaScript, React, Next.js, Svelte, Vue.js, Node.js, Express, WebSockets, Headless CMS, Zustand, TanStack Router, Shopify Liquid.
 - **UI Systems & Styling**: Tailwind CSS, Sass/SCSS, Storybook, HTML5, CSS3, Figma, Sketch, Photoshop, Illustrator.
 - **Tooling, Performance & Workflow**: Agile / Scrum Methodologies, Vite, Git/GitHub, Vercel, Netlify, Jest, Web Accessibility (Axe/WAVE), Core Web Vitals (Lighthouse).
@@ -26,7 +26,7 @@ Open to Creative Developer / Design Engineer roles
 - **Portfolio**: [benhays.dev](https://benhays.dev) (Awwwards Honorable Mention, GSAP Site of the Day)
 - **Rivian Navbar**: [rivian.benhays.dev](https://rivian.benhays.dev)
 - **Lorcana 3D Carousel**: [lorcana.benhays.dev](https://lorcana.benhays.dev)
-- **Hover Text Toy**: [hovertext.benhays.dev](https://hovertext.benhays.dev)
+- **Dynamic Typography**: [hovertext.benhays.dev](https://hovertext.benhays.dev)
 - **Valorant Landing Page**: [valorant.benhays.dev](https://valorant.benhays.dev)
 - **Wall-E 3D**: [wall-e.benhays.dev](https://wall-e.benhays.dev)
 

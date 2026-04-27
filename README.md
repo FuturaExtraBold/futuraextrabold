@@ -1,14 +1,15 @@
-**Award-winning Creative Developer (Awwwards Honorable Mention & GSAP Site of the Day)** with 20+ years of professional experience at the intersection of design and code: a decade scaling front-end systems at Kajabi that drove **$9.5B in creator revenue**, and 10 years of high-fidelity interactive work for Disney, Pixar, and AWS. Expert in **TypeScript**, modern frameworks (**React, Svelte, Next.js**), and creative technology (**WebGL, GSAP**), I specialize in bridging resilient architecture with premium, brand-aware visual execution.
+**Award-winning Creative Developer and Design Engineer (Awwwards Honorable Mention & GSAP Site of the Day)** with 20+ years of experience at the intersection of design, code, and brand storytelling. A decade scaling component-driven front-end systems at Kajabi, a content creator economy platform that drove **$9.5B in creator revenue**, plus 10 years of high-fidelity interactive campaigns for Disney, Pixar, and AWS. Expert in **TypeScript**, modern frameworks (**React, Next.js, Svelte**), and creative technology (**WebGL, GSAP, Framer Motion**), I specialize in bridging resilient architecture with premium motion design, responsive systems, and brand-aware visual execution across cross-functional teams.
 
 ---
 
 ### Skills:
 
-- **Creative Technology & Motion**: WebGL, Three.js, R3F, PixiJS, GLSL Shaders, GSAP, Framer Motion, Blender.
+- **Creative Technology & Motion**: WebGL, Three.js, R3F, PixiJS, GLSL Shaders, GSAP, Framer Motion, Motion Implementation, Interaction Design, Micro-interactions, Blender.
 - **Core Front-End & Architecture**: TypeScript, JavaScript, React, Next.js, Svelte, Vue.js, Node.js, Express, WebSockets, Headless CMS, Zustand, TanStack Router, Shopify Liquid.
-- **UI Systems & Styling**: Tailwind CSS, Sass/SCSS, Storybook, HTML5, CSS3, Figma, Sketch, Photoshop, Illustrator.
+- **UI Systems & Styling**: Tailwind CSS, shadcn/ui, Sass/SCSS, Storybook, HTML5, CSS3, Responsive Design, Component-driven UI Architecture, Design Tokens, Design System Maintenance, Figma, Sketch, Photoshop, Illustrator.
 - **Tooling, Performance & Workflow**: Agile / Scrum Methodologies, Vite, Git/GitHub, Vercel, Netlify, Jest, Web Accessibility (Axe/WAVE), Core Web Vitals (Lighthouse).
 - **AI Workflow**: Proficient in AI-augmented development workflows (Claude, Cursor, Gemini, Copilot) for rapid prototyping, scaffolding, and ideation.
+- **Collaboration & Process**: Cross-functional Collaboration, Design-Developer Collaboration, Sprint Planning.
 
 ---
 

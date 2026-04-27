@@ -9,7 +9,6 @@
 - **UI Systems & Styling**: Tailwind, Sass/SCSS, Storybook, HTML5, CSS3, Responsive Design, Component-driven UI Architecture, Design Tokens, Design System Maintenance, shadcn/ui, Figma, Sketch, Photoshop, Illustrator.
 - **Tooling, Performance & Workflow**: Agile / Scrum Methodologies, Vite, Git/GitHub, Vercel, Netlify, Jest, Web Accessibility (Axe/WAVE), Core Web Vitals (Lighthouse).
 - **AI Workflow**: Proficient in AI-augmented development workflows (Claude, Cursor, Gemini, Copilot) for rapid prototyping, scaffolding, and ideation.
-- **Collaboration & Process**: Cross-functional Collaboration, Design-Developer Collaboration, Sprint Planning.
 
 ---
 
